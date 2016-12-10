@@ -1,0 +1,13 @@
+Numpy array tests:
+Test for task1: 0.03s
+Test for task2: 0.07s
+Test for task3: 0.12s
+Test for task4: 3.50s
+Test for task5: 0.42s
+---
+Pandas dataframe tests:
+Test for task1: 0.03s
+Test for task2: 0.41s
+Test for task3: 0.07s
+Test for task4: 3.26s
+Test for task5: 0.52s
